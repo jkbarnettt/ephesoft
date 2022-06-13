@@ -14,11 +14,9 @@
 		<name>Document Capture and Mailroom Automation</name>
 		<url>http://www.ephesoft.com/</url>
 	</organization>
-
 	<properties>
 	      <sonar.exclusions>dcma-webapp/**/*, gxt/**/*, dcma-gwt/**/*</sonar.exclusions>
   	</properties>
-	
 	<modules>
 		<module>parent</module>
 		<module>dcma-util</module>
